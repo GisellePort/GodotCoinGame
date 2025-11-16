@@ -13,3 +13,5 @@ It’s a simple collectible game where you move a character to collect three bob
 - GDScript  
 - Pixel art assets  
 - Audio assets (background music and coin sounds)
+
+![Gamplay Screenshot](./GodotCoin.png)
